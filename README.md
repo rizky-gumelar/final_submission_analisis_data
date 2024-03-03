@@ -36,7 +36,7 @@ final_submission_analisis_data
 | ├───main_data.csv		# Dataset yang digunakan
 | ├───main_data_clean_downsampled.csv
 | └───dashboard.py 		# File utama aplikasi Streamlit
-├───data 					# Folder kumpulan dataset
+├───data					# Folder kumpulan dataset
 | ├───data_1.csv
 | └───data_2.csv
 ├───notebook.ipynb
