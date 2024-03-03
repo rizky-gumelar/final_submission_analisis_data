@@ -3,6 +3,7 @@
 - **Nama:** [Rizky Syah Gumelar]
 - **Email:** [m007d4ky2576@bangkit.academy]
 - **ID Dicoding:** [rizkysyahgumelar]
+- **Demo Apps:** [[streamlit]](https://final-airquality.streamlit.app/)
 
 ## Daftar Isi
 
