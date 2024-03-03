@@ -27,6 +27,12 @@ python -m venv .venv
 ```bash
 pip install streamlit
 ```
+### 3. Instal Package
+
+```bash
+pip install -r requirements.txt
+```
+
 
 ## Struktur Proyek
 
